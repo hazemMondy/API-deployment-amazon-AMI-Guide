@@ -57,6 +57,9 @@ server_name: if you have domain name else leave it as it is
 sudo service nginx start
 ```
 
+you should see output like this 
+
+![out](../images/cert1.jpg)
 
 ## 3. to make it auto atart after reboot of the server
 
