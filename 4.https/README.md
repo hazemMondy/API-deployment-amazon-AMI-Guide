@@ -17,5 +17,10 @@ sudo amazon-linux-extras install epel -y
 ```
 sudo yum install -y certbot python2-certbot-nginx
 ```
+you should see output like this 
 
-**it will require you to enter emainl address and agree to some terms**
+![out](../images/cert2.jpg)
+
+**it will require you to enter emainl address and agree to some terms and add your website domain name**
+
+**if you don't have a domaan name leave it _**
